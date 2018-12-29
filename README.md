@@ -1,0 +1,1 @@
+# Acceleration_Response_Spectrum_for_Analysis_of_Earthquakes
